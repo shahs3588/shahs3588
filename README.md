@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Data Sceince from Free Code Camp
 - 💞️ I’m looking to collaborate on Data Science and Data visualization 
 - 📫 How to reach me ... i am available on WhatsApp +92 300 0540417 or email shahs3588@gmail.com
+- Author - Syed Imtiaz Hussain Shah
+- 
+- 
 
 <!---
 shahs3588/shahs3588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
